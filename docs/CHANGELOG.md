@@ -7,11 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2026-11-04
+
 - Changed: unify shared NUKE builds, reuse compiled tests and add a coverage-free `TestFast` target.
 
 ## [1.0.0] - 2026-10-31
 
 - Added: `StableId`, `RenameMap` and `IdentityRegistry<T>` extracted from MASS4.Graph
 
-[Unreleased]: https://github.com/MASS4ORG/StableIdentity/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/MASS4ORG/StableIdentity/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/MASS4ORG/StableIdentity/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/MASS4ORG/StableIdentity/releases/tag/v1.0.0
